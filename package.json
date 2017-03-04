@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WwwappZ/stoplicht/issues"
   },
-  "homepage": "https://github.com/WwwappZ/stoplicht#readme"
+  "homepage": "https://github.com/WwwappZ/stoplicht#readme",
+  "dependencies": {
+    "onoff": "*",
+  }
 }
