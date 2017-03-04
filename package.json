@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/WwwappZ/stoplicht#readme",
   "dependencies": {
-    "pi-gpio": "*"
+    "pi-gpio": "*",
+    "async": "*"
   }
 }
